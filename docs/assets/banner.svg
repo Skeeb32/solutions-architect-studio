@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Solutions Architect Studio</title><desc id="desc">Design the system. Explain the decisions. Architecture, governance and modernization in one interactive workspace.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#25434e" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="360" rx="14" fill="#102632"/><rect x="820" width="460" height="360" fill="url(#grid)"/>
+<path d="M64 62l22-11 22 11-22 11z M64 72l22 11 22-11 M64 82l22 11 22-11" fill="none" stroke="#79d5cc" stroke-width="3" stroke-linejoin="round"/>
+<text x="128" y="80" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#a4c1c9">ARCHITECTURE / GOVERNANCE / MODERNIZATION</text>
+<text x="64" y="158" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#ffffff">Solutions Architect Studio</text>
+<text x="64" y="211" font-family="Arial,sans-serif" font-size="27" fill="#79d5cc">Design the system. Explain the decisions.</text>
+<text x="64" y="258" font-family="Arial,sans-serif" font-size="16" fill="#b5cbd3">An interactive workspace for architecture that stands up to questions.</text>
+<text x="64" y="317" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#89aab6">REACT + TYPESCRIPT     /     REACT FLOW     /     GITHUB PAGES</text>
+<g stroke="#79d5cc" fill="#183642" stroke-width="2"><path d="M1020 106v52m0 0h-88v48m88-48h88v48m-88-48v48" fill="none"/><rect x="968" y="57" width="104" height="49" rx="7"/><rect x="888" y="206" width="88" height="49" rx="7"/><rect x="988" y="206" width="88" height="49" rx="7"/><rect x="1088" y="206" width="88" height="49" rx="7"/></g>
+<g font-family="Arial,sans-serif" font-size="11" fill="#dcefed" text-anchor="middle"><text x="1020" y="86">STRATEGY</text><text x="932" y="235">SYSTEMS</text><text x="1032" y="235">DECISIONS</text><text x="1132" y="235">ASSURANCE</text></g>
+</svg>
